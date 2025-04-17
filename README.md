@@ -49,10 +49,25 @@ An AI-powered EdTech platform built using the **MERN stack**, designed to delive
 
 ## 📁 Project Structure
 
+
 ```bash
-StudySphere/
-├── client/             # React frontend
-├── server/             # Express.js backend
-├── chatbot/            # LLM & AI integration
-├── public/             # Assets
-└── README.md
+StudySphere_/
+├── public/               # Static assets
+├── server/               # Express.js backend
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   └── ...
+├── src/                  # React frontend
+│   ├── components/
+│   ├── pages/
+│   ├── assets/
+│   └── ...
+├── .env                  # Environment variables
+├── .gitignore
+├── README.md
+├── index.html
+├── package-lock.json
+├── package.json
+├── vite.config.js
+└── StudySphere.pdf       # Full project documentation
