@@ -42,7 +42,6 @@ An AI-powered EdTech platform built using the **MERN stack**, designed to delive
 - MongoDB  
 - JWT + Email OTP Authentication  
 - Razorpay API  
-- WebSockets for real-time data  
 - LLM  (custom)
 
 ---
