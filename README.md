@@ -70,4 +70,3 @@ StudySphere_/
 ├── package-lock.json
 ├── package.json
 ├── vite.config.js
-└── StudySphere.pdf       # Full project documentation
